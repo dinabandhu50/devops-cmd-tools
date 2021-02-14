@@ -155,7 +155,10 @@ vscode extensions:
 -	Night Owl
 -	One Dark Pro
 -	Prettier - Code formatter
--	Python
+-	Python {for getting proper pyhton env}
+	- Pylance {for getting import autocomplete}
+	- Python Docstring Generator {for generating docstring}
+	- 
 
 ## <center> Docker </center>
 > To be filled  
